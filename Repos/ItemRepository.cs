@@ -1,6 +1,6 @@
-using moq_console_app.IRepos;
+using MoqConsoleApp.IRepos;
 
-namespace moq_console_app.Repos  
+namespace MoqConsoleApp.Repos  
 {  
   public class ItemRepository : IGetDataRepository  
   {  

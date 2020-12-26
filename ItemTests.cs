@@ -1,9 +1,9 @@
 using Moq;
 using Xunit;
-using moq_console_app.IRepos;
-using moq_console_app.Controllers;
+using MoqConsoleApp.IRepos;
+using MoqConsoleApp.Controllers;
 
-namespace moq_console_app  
+namespace MoqConsoleApp  
 {   
   public class ItemTests  
   {

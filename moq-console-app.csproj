@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>moq_console_app</RootNamespace>
+    <RootNamespace>MoqConsoleApp</RootNamespace>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>

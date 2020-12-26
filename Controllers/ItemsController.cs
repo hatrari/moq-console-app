@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;  
-using moq_console_app.IRepos;
+using MoqConsoleApp.IRepos;
 
-namespace moq_console_app.Controllers  
+namespace MoqConsoleApp.Controllers  
 {  
   public class ItemsConroller : Controller  
   {  

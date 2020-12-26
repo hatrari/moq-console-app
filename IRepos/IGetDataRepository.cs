@@ -1,4 +1,4 @@
-namespace moq_console_app.IRepos
+namespace MoqConsoleApp.IRepos
 {  
   public interface IGetDataRepository  
   {  
